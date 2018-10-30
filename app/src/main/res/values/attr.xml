@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomProgressView">
+        <attr name="ringColor" format="color"/>
+        <attr name="progressColor" format="color"/>
+        <attr name="ringWidth" format="dimension"/>
+        <attr name="progressPercent" format="integer"/>
+    </declare-styleable>
+</resources>
